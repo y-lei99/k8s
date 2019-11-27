@@ -1,1 +1,1 @@
-FROM jupyterhub/k8s-hub:0.8.0
+FROM jupyterhub/k8s-hub:'set-by-chartpress'
