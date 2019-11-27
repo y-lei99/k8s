@@ -1,0 +1,1 @@
+FROM Jupyterhub/configurable-http-proxy
