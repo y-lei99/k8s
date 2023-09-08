@@ -1,1 +1,1 @@
-FROM ghcr.io/dask/dask-gateway-server:2022.6.1
+FROM ghcr.io/dask/dask-gateway:2022.6.1
