@@ -1,1 +1,1 @@
-FROM pangeo/pangeo-notebook:2019.08.08
+FROM ghcr.io/dask/dask-gateway-server:2022.6.1
